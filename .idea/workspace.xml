@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76b539c-a9ae-4c0c-bfdd-9255bb0c67d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module_10_2/module_10_2.py" afterDir="false" />
+    <list default="true" id="b76b539c-a9ae-4c0c-bfdd-9255bb0c67d7" name="Changes" comment="Выполнено практическое задание по теме &quot;Потоки на классах&quot;">
+      <change afterPath="$PROJECT_DIR$/Module_10_3/module_10_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.module_10_1.executor": "Run",
     "Python.module_10_2.executor": "Run",
+    "Python.module_10_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -70,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725367301019</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнено практическое задание по теме &quot;Потоки на классах&quot;">
+      <option name="closed" value="true" />
+      <created>1725448588455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725448588455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнено практическое задание по теме &quot;Потоки на классах&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено практическое задание по теме &quot;Потоки на классах&quot;" />
   </component>
 </project>
